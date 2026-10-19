@@ -4,6 +4,8 @@ https://docs.flutter.dev/cookbook/networking/fetch-data
 2) Import import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
+
+snapshot: one chunck of data when we tried to fetch it 
   
 ** in exam -> we will use photos where we will use listview and images 
 https://jsonplaceholder.typicode.com/photos
