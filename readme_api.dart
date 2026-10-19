@@ -1,5 +1,10 @@
 https://docs.flutter.dev/cookbook/networking/fetch-data
 1) run terminal: flutter pub add http or http: any or #  http: ^1.6.0 in yaml file 
+
+2) Import import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+
+  
 ** in exam -> we will use photos where we will use listview and images 
 https://jsonplaceholder.typicode.com/photos
 Fake Json 
