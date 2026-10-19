@@ -1,3 +1,6 @@
+// add this to assets folder and also change yaml 
+//  assets:
+//    - assets/sample.json
 {
   "items" : [
     {
