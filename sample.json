@@ -1,0 +1,19 @@
+{
+  "items" : [
+    {
+    "id" : "p1",
+    "name" : "macintosh",
+    "descrition" : "Apple Products"
+    },
+    {
+      "id" : "p2",
+      "name" : "Windows",
+      "descrition" : "Microsoft Products"
+    },
+    {
+      "id" : "3",
+      "name" : "Linux",
+      "descrition" : "Free Products"
+    }
+  ]
+}
