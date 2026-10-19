@@ -1,5 +1,5 @@
 https://docs.flutter.dev/cookbook/networking/fetch-data
-1) run terminal: flutter pub add http
+1) run terminal: flutter pub add http or http: any in yaml file 
 ** in exam -> we will use photos where we will use listview and images 
 https://jsonplaceholder.typicode.com/photos
 Fake Json 
